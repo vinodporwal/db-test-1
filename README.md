@@ -28,3 +28,18 @@ Here is an example table in GitHub Markdown:
 ##### Header 5
 
 ###### Header 6 (smallest)
+
+# Example with Image and Label
+
+## Using Markdown
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+*Figure 1: The GitHub logo.*
+
+## Using HTML
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200"/>
+</p>
+<p align="center"><i>Figure 2: The GitHub logo centered and resized.</i></p>
