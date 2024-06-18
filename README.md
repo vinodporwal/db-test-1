@@ -18,8 +18,14 @@ Here is an example table in GitHub Markdown:
 
 ***bold and italic text*** or ___bold and italic text___
 
-# Example with Font Sizes
-<p style="font-size: 20px;">**This is bold and 20px text.**</p>
-<p style="font-size: 15px;">*This is italic and 15px text.*</p>
-<p style="font-size: 10px;">***This is bold, italic, and 10px text.***</p>
+# Header 1 (largest)
 
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Header 5
+
+###### Header 6 (smallest)
