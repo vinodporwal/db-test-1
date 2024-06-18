@@ -19,7 +19,7 @@ Here is an example table in GitHub Markdown:
 ***bold and italic text*** or ___bold and italic text___
 
 # Example with Font Sizes
+<p style="font-size: 20px;">**This is bold and 20px text.**</p>
+<p style="font-size: 15px;">*This is italic and 15px text.*</p>
+<p style="font-size: 10px;">***This is bold, italic, and 10px text.***</p>
 
-<p style="font-size: 20px;">This is 20px text.</p>
-<p style="font-size: 15px;">This is 15px text.</p>
-<p style="font-size: 10px;">This is 10px text.</p>
