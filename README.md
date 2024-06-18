@@ -1,6 +1,4 @@
-[# READ ME
-]([https://www.baywa.com/en](https://www.baywa.com/en))
-
+![Example Image](https://www.baywa.com/webfiles/1717672156793/images/BayWa_Wortmarke_gruen.svg)
 # Example Table
 
 Here is an example table in GitHub Markdown:
